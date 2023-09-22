@@ -5,7 +5,7 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-link {
+.link {
   text-decoration: none;
 }
 .logo-in-header {
