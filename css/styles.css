@@ -28,12 +28,11 @@ body {
   text-decoration: none;
   color: #2e2f42;
 }
-.index:hover {
-  color: #404bbf;
-}
+.index:hover,
 .index:focus {
   color: #404bbf;
 }
+
 .address-item {
   font-style: normal;
 }
