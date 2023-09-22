@@ -13,7 +13,11 @@ body {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.btn-active:hover,
+.btn-active:hover {
+  color: #ffffff;
+
+  background-color: #404bbf;
+}
 .btn-active:focus {
   color: #ffffff;
   background-color: #404bbf;
