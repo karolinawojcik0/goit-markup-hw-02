@@ -32,6 +32,15 @@ body {
   background-color: #f4f4fd;
   cursor: pointer;
 }
+.description {
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+  color: #2e2f42;
+}
 .the-end {
   background-color: #2e2f42;
 }
