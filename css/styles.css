@@ -16,6 +16,23 @@ body {
 .top-line-logo {
   color: #2e2f42;
 }
+.list {
+  text-decoration: none;
+}
+.index {
+  list-style: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.index:hover {
+  color: #404bbf;
+}
+.index:focus {
+  color: #404bbf;
+}
 .section-one {
   background-color: #2e2f42;
 }
