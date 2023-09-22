@@ -34,6 +34,9 @@ body {
 .index:focus {
   color: #404bbf;
 }
+.address-item {
+  font-style: normal;
+}
 .section-one {
   background-color: #2e2f42;
 }
