@@ -1,16 +1,20 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+
 :root {
   color: #434455;
   background-color: #ffffff;
 }
+
 .link {
   text-decoration: none;
 }
+
 .list {
   list-style: none;
 }
+
 .logo-in-header {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -20,6 +24,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .filter-btn-active {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -30,20 +35,24 @@ body {
   background-color: #f4f4fd;
   cursor: pointer;
 }
+
 .filter-btn-active:hover,
 .filter-btn-active:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
+
 .contacts {
   font-style: normal;
 }
+
 .contacts-list {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .contacts-item {
   font-size: 16px;
   line-height: 1.5;
@@ -54,6 +63,7 @@ body {
 .footer {
   background-color: #2e2f42;
 }
+
 .logo-in-footer {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -63,12 +73,15 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .studio-footer {
   color: #f4f4fd;
 }
+
 .studio-header {
   color: #2e2f42;
 }
+
 .studio-btn {
   font-weight: 500;
   font-size: 16px;
@@ -76,7 +89,13 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .studio-btn:hover,
 .studio-btn:focus {
   color: #404bbf;
+}
+
+.section1-hw1 {
+  background-color: #2E2F42;
+  color: #FFF;
 }
