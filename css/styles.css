@@ -45,8 +45,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #4d5ae5;
-  background-color: #f4f4fd;
+  color: var(--primary-brand);
+  background-color: var(--light);
   cursor: pointer;
 }
 
