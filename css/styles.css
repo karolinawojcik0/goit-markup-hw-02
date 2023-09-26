@@ -3,8 +3,8 @@ body {
 }
 
 :root {
-  color: #434455;
-  background-color: #ffffff;
+  --color: #434455;
+  --background-color: #ffffff;
 }
 
 .link {
