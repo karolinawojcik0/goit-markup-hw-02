@@ -10,10 +10,12 @@ body {
   --text: #434455;
   --subtle-text: #8E8F99;
   --accent: #E7E9FC;
+  --light: #F4F4FD;
+  --modal-overlay: #2E2F42;
+  --hero-background: #2E2F42;
+  --white-background: #ffffff;
+  --modal-background: #FCFCFC;
 
-
-
-  --background-color: #ffffff;
 }
 
 .link {
