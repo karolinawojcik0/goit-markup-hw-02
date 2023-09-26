@@ -109,19 +109,10 @@ list {
   color: #404bbf;
 }
 
-heading-h2 {
+.heading-h2 {
   color: var(--dark);
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-}
-
-address-items {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--brand-color);
-
-
 }
