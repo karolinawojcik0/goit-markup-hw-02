@@ -116,7 +116,10 @@ body {
   color: #2e2f42;
 }
 
-.studio-btn:hover,
+.studio-btn:hover {
+  color: var(--primary-brand);
+}
+
 .studio-btn:focus {
   color: #404bbf;
 }
