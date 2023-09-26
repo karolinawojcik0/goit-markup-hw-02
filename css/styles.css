@@ -3,7 +3,16 @@ body {
 }
 
 :root {
-  --brand color: #434455;
+  --primary-brand: #4D5AE5;
+  --pressed-state: #404BBF;
+  --dark: #2E2F42;
+  --success: #31D0AA;
+  --text: #434455;
+  --subtle-text: #8E8F99;
+  --accent: #E7E9FC;
+
+
+
   --background-color: #ffffff;
 }
 
