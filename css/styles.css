@@ -3,7 +3,7 @@ body {
 }
 
 :root {
-  --color: #434455;
+  --brand color: #434455;
   --background-color: #ffffff;
 }
 
@@ -100,4 +100,13 @@ list {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+}
+
+address-items {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--brand-color);
+
+
 }
