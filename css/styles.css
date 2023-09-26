@@ -117,7 +117,7 @@ body {
 }
 
 .studio-btn:hover {
-  color: var(--primary-brand);
+  color: var(--pressed-state);
 }
 
 .studio-btn:focus {
