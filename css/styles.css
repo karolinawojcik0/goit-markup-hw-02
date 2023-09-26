@@ -22,7 +22,7 @@ body {
   text-decoration: none;
 }
 
-list {
+.list {
   list-style: none;
 }
 
@@ -122,7 +122,4 @@ list {
   letter-spacing: 0.02em;
   line-height: 1.5;
   font-size: 16px;
-
-
-
 }
