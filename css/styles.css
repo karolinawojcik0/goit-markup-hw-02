@@ -147,3 +147,13 @@ body {
   letter-spacing: 0.02em;
 
 }
+
+.heading-section-3-4 {
+  color: var(--dark);
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+
+
+}
