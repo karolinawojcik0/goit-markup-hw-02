@@ -38,10 +38,14 @@ body {
   text-transform: uppercase;
 }
 
-.filter-btn:hover,
+.filter-btn:hover {
+  color: var(--white-background);
+  background-color: var(--pressed-state);
+}
+
 .filter-btn:focus {
-  color: #ffffff;
-  background-color: #404bbf;
+  color: var(--white-background);
+  background-color: var(--pressed-state);
 }
 
 .filter-btn {
