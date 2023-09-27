@@ -38,20 +38,8 @@ body {
   text-transform: uppercase;
 }
 
-
-.filter-btn-active {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--primary-brand);
-  background-color: var(--light);
-  cursor: pointer;
-}
-
-.filter-btn-active:hover,
-.filter-btn-active:focus {
+.filter-btn:hover,
+.filter-btn:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
@@ -63,11 +51,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-
-
-
-
-
+  cursor: pointer;
 }
 
 .address {
