@@ -122,7 +122,10 @@ body {
   cursor: pointer;
 }
 
-.order-service:hover,
+.order-service:hover {
+  background-color: var(--pressed-state);
+}
+
 .order-service:focus {
   background-color: var(--pressed-state);
 }
