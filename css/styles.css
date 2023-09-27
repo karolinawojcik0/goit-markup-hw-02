@@ -122,6 +122,11 @@ body {
   cursor: pointer;
 }
 
+.order-service:hover,
+.order-service:focus {
+  background-color: var(--pressed-state);
+}
+
 .studio-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
