@@ -124,12 +124,13 @@ body {
   color: #404bbf;
 }
 
-.heading-h2 {
+.hero-title {
   color: var(--modal-overlay);
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .paragraph-text {
