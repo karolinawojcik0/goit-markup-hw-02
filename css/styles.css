@@ -138,6 +138,11 @@ body {
   letter-spacing: 0.02em;
 }
 
+.menu:hover,
+.menu:focus {
+  color: var(--pressed-state);
+}
+
 .studio-btn:hover {
   color: var(--pressed-state);
 }
