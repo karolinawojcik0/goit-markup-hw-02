@@ -163,11 +163,21 @@ body {
   text-align: center;
 }
 
+.heading-title {
+  color: var(--dark);
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+
+
+}
+
 .paragraph-text {
   color: var(--text);
   letter-spacing: 0.02em;
   line-height: 1.5;
   font-size: 16px;
+  line-height: 1.2;
 }
 
 .footer-text {
