@@ -187,20 +187,3 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
-.header1 {
-  color: var(--white-background);
-  font-size: 56px;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  text-align: center;
-
-}
-
-.section-3heading {
-  color: var(--dark);
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  text-transform: capitalize;
-}
