@@ -48,7 +48,7 @@ body {
 }
 
 .filter-btn {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   color: var(--primary-brand);
   background-color: var(--light);
   font-weight: 500;
