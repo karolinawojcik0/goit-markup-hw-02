@@ -70,7 +70,8 @@ body {
   letter-spacing: 0.02em;
 }
 
-.address-items:hover {
+.address-items:hover,
+.address-items:focus {
   color: #404bbf;
 }
 
