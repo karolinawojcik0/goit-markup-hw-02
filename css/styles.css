@@ -169,6 +169,10 @@ body {
   text-transform: capitalize;
 }
 
+.members {
+  background-color: var(--light);
+}
+
 .paragraph-text {
   color: var(--text);
   letter-spacing: 0.02em;
