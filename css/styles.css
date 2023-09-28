@@ -174,24 +174,29 @@ body {
 }
 
 .paragraph-text {
-  color: var(--tex letter-spacing: 0.02em;
-      line-height: 1.5;
-      font-size: 16px;
-      line-height: 1.2;
-  }
+  color: var(--text);
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  font-size: 16px;
+  line-height: 1.2;
+}
 
-  .feature {
-    color: var(--text);
-    letter-spacing: 0.02em;
-    line-height: 1.5;
-    font-size: 16px;
-    line-height: 1.5;
-  }
+.feature {
+  color: var(--text);
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  font-size: 16px;
+  line-height: 1.5;
+}
 
-  .footer-text {
-    color: var(--light);
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-  }
+.footer-text {
+  color: var(--light);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.background-section {
+  background-color: var(--white-background);
+}
